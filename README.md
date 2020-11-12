@@ -1,3 +1,2 @@
 # Web crawlers
-Readme.md
-try
+Practice projects for web crawlers
